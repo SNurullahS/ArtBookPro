@@ -7,7 +7,6 @@ import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import com.nurullahsevinckan.artbookpro.R
 import com.nurullahsevinckan.artbookpro.databinding.FragmentArtDetailsBinding
-import com.nurullahsevinckan.artbookpro.databinding.FragmentArtsBinding
 
 class ArtDetailsFragment: Fragment(R.layout.fragment_art_details) {
 
